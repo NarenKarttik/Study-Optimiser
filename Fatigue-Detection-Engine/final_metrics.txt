@@ -1,0 +1,18 @@
+==================================================
+DROWSINESS DETECTION — EVALUATION RESULTS
+==================================================
+
+Best model  : Random Forest (Ours)
+Accuracy    : 93.13%
+Precision   : 93.05%
+Recall      : 94.46%
+F1-Score    : 93.75%
+AUC-ROC     : 98.09%
+
+All models:
+  Random Forest (Ours)    Acc=93.13%  F1=93.75%  ← BEST
+  MLP Neural Net          Acc=91.30%  F1=92.07%
+  SVM (RBF)               Acc=79.14%  F1=81.61%
+  KNN (Baseline)          Acc=90.64%  F1=91.63%
+
+==================================================
